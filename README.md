@@ -51,6 +51,13 @@ A basic ToDo App built to get familiar with the new Next.js 13!
 - Server Actions
 - API Routes
 
+## Prerequisites
+
+Before you dive into Todo App, ensure that you have the following prerequisites installed on your computer:
+
+- [Node.js](https://nodejs.org/): React applications rely on Node.js for development and package management.
+- [npm](https://www.npmjs.com/): npm package manager to handle project dependencies.
+
 ## Getting Started
 
 To run the application, follow these simple steps:
