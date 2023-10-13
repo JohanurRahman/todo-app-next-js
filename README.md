@@ -18,6 +18,10 @@ A basic ToDo App built to get familiar with the new Next.js 13!
       <br>React
     </td>
     <td align="center">
+      <img src="https://skillicons.dev/icons?i=prisma" />
+      <br>Prisma
+    </td>
+    <td align="center">
       <img src="https://skillicons.dev/icons?i=js" />
       <br>JavaScript
     </td>
